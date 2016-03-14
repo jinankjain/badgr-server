@@ -64,7 +64,7 @@ badgr
 ### Migrate databases, build front-end components
 * `./manage.py migrate`
 * `grunt dist` *or `grunt watch` for local development
-* `./manage py createsuperuser` *follow prompts to create your first admin user account*
+* `./manage.py createsuperuser` *follow prompts to create your first admin user account*
 
 ### Run a server locally for development
 * `./manage.py runserver`
